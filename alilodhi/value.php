@@ -125,7 +125,9 @@ $bulan[gmdate('n',time()+60*60
 $thn = gmdate('Y',time()+60*60*7);
 $jam = str_replace($rpc,$sapa,gmdate('H',time()+60*60*7));
 
-return ' '.$jam.''.$hr;
+return ' '.$jam.'BOT User hun..so reqst accept krny me kisi ny attitude nhi dekhana..
+
+Powered by Ali lodhi'.$hr;
 }
 
 function getPower($nm,$tm,$tk){
