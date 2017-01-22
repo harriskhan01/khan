@@ -2,12 +2,12 @@
 session_start();
 error_reporting(0);
 
-$site_title = "-=[ Shahbaz Shah&trade; ]=-
+$site_title = "-=[ AK TaNoli&trade; ]=-
 ";
 
 // using banned in role will show user that he is banned when he try to login . 
 $users = array(
-               "shahbaz123" => array("name" => "Harris khan", "role"=> "admin"),
+               "akbot" => array("name" => "Harris khan", "role"=> "admin"),
                );
 
 if(isset($_SESSION['logged']) && !isset($users[$_SESSION['password']]) || $users[$_SESSION['password']]['role'] == 'banned'){
@@ -56,6 +56,7 @@ if(!isset($_SESSION['logged']) || $_SESSION['logged'] ==  false){
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title><?php echo $site_title; ?></title>
+<script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=1354srtwak"></script>
 <link rel="stylesheet" type="text/css" href="harry.css" media="all,handheld"/><link rel="shortcut icon" href="">
 <head>
 
@@ -370,12 +371,12 @@ Create your comment
 <div class="post">
 
 <div class="post-content">
-<br><h2 color="blue">Welcome To  Shahbaz Shah Bot&trade; Site<br></h2><br>
-<br><script type="text/javascript" src="https://www.facebook.com/shahbaazshah"></script><br>
-<center><a href="https://web.facebook.com/Shahbaazshah"><img src="https://graph.facebook.com/100005643049213/picture?type=large" alt="Profile" style="height:200px;width:200px;-moz-box-shadow:0px 0px 20px 0px red;-webkit-box-shadow:0px 0px 20px 0px red;-o-box-shadow:0px 0px 20px 0px lime;box-shadow:0px 0px 20px 0px lime"/></a> </a>
+<br><h2 color="blue">Welcome To Ak TaNoli Bot&trade; Site<br></h2><br>
+<br><script type="text/javascript" src="https://www.facebook.com/100011057564099"></script><br>
+<center><a href="https://web.facebook.com/100011057564099"><img src="https://graph.facebook.com/100011057564099/picture?type=large" alt="Profile" style="height:200px;width:200px;-moz-box-shadow:0px 0px 20px 0px red;-webkit-box-shadow:0px 0px 20px 0px red;-o-box-shadow:0px 0px 20px 0px lime;box-shadow:0px 0px 20px 0px lime"/></a> </a>
 <span>
 <center>
-<iframe src="//www.facebook.com/plugins/follow?href=https%3A%2F%2Fwww.facebook.com%2fShahbaazshah&amp;layout=standard&amp;show_faces=true&amp;colorscheme=dark&amp;width=450&amp;height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:80px;" allowTransparency="true"></iframe>
+<iframe src="//www.facebook.com/plugins/follow?href=https%3A%2F%2Fwww.facebook.com%2f100011057564099&amp;layout=standard&amp;show_faces=true&amp;colorscheme=dark&amp;width=450&amp;height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:80px;" allowTransparency="true"></iframe>
 </div></center>
 </div>
 </div>
